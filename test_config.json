@@ -1,0 +1,21 @@
+{
+	"lane": {
+		"ip": "", 
+		"port": "",
+        "user_id": ""
+	},
+	"TEST_02": {
+		"charge_steps": ,
+		"timeout": ,
+		"payment_bill": ,
+		"giving_back_coins":,
+		"coins" : {
+			"100": ,
+			"200": ,
+			"10": ,
+			"20": ,
+			"50": 
+		},
+		"min_amount": 
+	}
+}
